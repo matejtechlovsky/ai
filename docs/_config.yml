@@ -39,5 +39,11 @@ version: 3.0.0
 # Navbar page list
 nav:
 
-  - title: About
+  - title: Zápisky
+    url: /notes
+
+  - title: Materiály
+    url: /materials
+
+  - title: O mně
     url: /about
