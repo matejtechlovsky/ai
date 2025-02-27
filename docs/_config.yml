@@ -1,5 +1,5 @@
 # Setup
-title: Dark Poole
+title: Manifesto aplikované informatiky
 url: https://matejtechlovsky.github.io
 paginate: 1
 baseurl: "/ai/"
@@ -32,17 +32,12 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
 
 # Custom vars
 version: 3.0.0
 
 # Navbar page list
 nav:
-  - title: Blog
-    url: /archive
 
   - title: About
     url: /about
