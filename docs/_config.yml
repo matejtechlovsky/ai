@@ -1,8 +1,8 @@
 # Setup
 title: Dark Poole
-url: https://getpoole.com
+url: https://matejtechlovsky.github.io
 paginate: 1
-baseurl: ""
+baseurl: "/ai/"
 permalink: pretty
 
 # Gems
