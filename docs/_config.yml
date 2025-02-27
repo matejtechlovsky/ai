@@ -14,12 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Zápisky z oboru Aplikovaná Informatika
-email: aejmt@proton.me
+#email: aejmt@proton.me
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/ai/" # the subpath of your site, e.g. /blog
 url: "https://matejtechlovsky.github.io"
-instagram_username: techlovsky.m
-github_username:  techlovskymatej
+#instagram_username: techlovsky.m
+#github_username:  techlovskymatej
 
 # Build settings
 markdown: kramdown
