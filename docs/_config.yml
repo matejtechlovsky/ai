@@ -18,7 +18,7 @@ email: aejmt@proton.me
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/ai/" # the subpath of your site, e.g. /blog
 url: "https://matejtechlovsky.github.io"
-twitter_username: jekyllrb
+instagram_username: techlovsky.m
 github_username:  techlovskymatej
 
 # Build settings
