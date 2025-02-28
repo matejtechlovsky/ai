@@ -7,3 +7,5 @@ Zdravím tě! Buď někdo dal odkaz nebo jsi to našel velmi na radom což zname
 pro více klikni nahoře na zápisky nebo materiály
 
 This is a test -> [Nastavení](https://matejtechlovsky.github.io/ai/_materials/test)
+This is a test -> [About](https://matejtechlovsky.github.io/ai/about)
+This is a test -> [Note](https://matejtechlovsky.github.io/ai/archive)
