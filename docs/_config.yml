@@ -39,11 +39,11 @@ version: 3.0.0
 # Navbar page list
 nav:
 
-  - title: Zápisky
-    url: _notes/test.html
+  # - title: Zápisky
+  #   url: _notes/test.html
 
-  - title: Materiály
-    url: _materials/test.md
+  # - title: Materiály
+  #   url: _materials/test.md
 
-  # - title: O mně
-  #   url: /about
+  - title: O mně
+    url: /about.md
