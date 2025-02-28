@@ -2,7 +2,7 @@
 title: Manifesto aplikované informatiky
 url: https://matejtechlovsky.github.io
 paginate: 1
-baseurl: "/ai"
+baseurl: "/ai/docs"
 permalink: pretty
 
 # Gems
