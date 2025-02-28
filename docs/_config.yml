@@ -40,10 +40,10 @@ version: 3.0.0
 nav:
 
   - title: Zápisky
-    url: notes/test.html
+    url: _notes/test.html
 
   - title: Materiály
-    url: materials/test.md
+    url: _materials/test.md
 
   # - title: O mně
   #   url: /about
