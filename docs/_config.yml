@@ -47,3 +47,9 @@ nav:
 
   - title: O mně
     url: /about
+  
+  - title: Zápisky
+    url: /notes
+  
+  - title: Materiály
+    url: /materials
