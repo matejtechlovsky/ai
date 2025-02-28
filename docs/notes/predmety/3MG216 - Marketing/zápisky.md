@@ -3,6 +3,8 @@ layout: page
 title: 3MG216 - Marketing I
 ---
 -----
+[Jump_to_End](#end)
+
 # 1. Týden
 
 - marketing = nástroj pro růst firmy
@@ -54,5 +56,7 @@ Customer lifetime value = celkový přijme/zisk, který zákazník firmě přine
 - rozumět "iracionálním" silám - př. starý lidi
 - návnada musí chybět rybě, ne rybáři
 - marketing je zodpovědnost celé firmy
+
+# End {#end}
 
 Tým č.1
