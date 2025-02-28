@@ -2,6 +2,7 @@
 layout: page
 title: 3MG216 - Marketing I
 ---
+-----
 # 1. Týden
 
 - marketing = nástroj pro růst firmy
