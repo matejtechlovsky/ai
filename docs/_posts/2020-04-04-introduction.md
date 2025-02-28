@@ -3,9 +3,5 @@ layout: page
 title:  Úvod
 ---
 -----
-Zdravím tě! Buď někdo dal odkaz nebo jsi to našel velmi na radom což znamená že tady máš všechny moje zápisky z AI. Enjoy.
-pro více klikni nahoře na zápisky nebo materiály
+Zdravím tě! Jmenuji se Matěj a jsem student oboru _Aplikované informatiky_ na **VŠE FIS**. Právě jsi narazil na moje zápisky z mých studijí, gratuluju, používej je jak chceš a třeba ti pomůžou i s tvými studii. Přeju hodně štěstí!
 
-This is a test -> [Nastavení](https://matejtechlovsky.github.io/ai/_materials/test)
-This is a test -> [About](https://matejtechlovsky.github.io/ai/about)
-This is a test -> [Note](https://matejtechlovsky.github.io/ai/archive)

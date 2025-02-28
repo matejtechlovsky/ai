@@ -45,8 +45,8 @@ nav:
   # - title: Materiály
   #   url: _materials/test.md
 
-  - title: O mně
-    url: /about
+  # - title: O mně
+  #   url: /about
   
   - title: Zápisky
     url: https://matejtechlovsky.github.io/ai/notes/predmety 
