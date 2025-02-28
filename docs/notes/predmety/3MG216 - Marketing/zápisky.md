@@ -4,6 +4,7 @@ title: 3MG216 - Marketing I
 ---
 -----
 [Jump_to_End](#end)
+[Jump_to_some](#4-marketingová-koncepce)
 
 # 1. Týden
 
