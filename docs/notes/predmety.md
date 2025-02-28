@@ -4,6 +4,6 @@ title: Zápisky k předmětům
 ---
 -----
 Zde nalezneš moje poznámky z předmětů. Pokusím se je dělat co nejvíce aktuální a správné ale well... jsme jen lidi!
-- [Marketing]
+- [Marketing](https://matejtechlovsky.github.io/ai/notes/predmety/3MG216 - Marketing/zápisky)
 - [Finteo]
 - [XML]
