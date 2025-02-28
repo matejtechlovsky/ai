@@ -2,6 +2,7 @@
 layout: page
 title: Zápisky k předmětům
 ---
+<style>h1,h2,h3,h4 { border-bottom: 0; } </style>
 -----
 Zde nalezneš moje poznámky z předmětů. Pokusím se je dělat co nejvíce aktuální a správné ale well... jsme jen lidi!
 
