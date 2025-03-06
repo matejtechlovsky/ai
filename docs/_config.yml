@@ -2,7 +2,7 @@
 title: Zápisky VŠE.FIS.AI
 url: http://matej.tech
 paginate: 1
-baseurl: "/ai"
+baseurl: ""
 permalink: pretty
 
 # Gems
